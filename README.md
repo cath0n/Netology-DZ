@@ -1,2 +1,2 @@
 # Netology-DZ
-Домашние задания для курса Data Scientist
+Сюда я буду выкладывать домашние задания для курса Data Scientist
